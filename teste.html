@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Script</title>
+</head>
+<body>
+
+<script src="./script.js"></script>
+<style>
+*{
+    scrollbar-width: thin;
+    font-size: 14px;
+}
+p{
+    margin-top: 0px !important;
+}
+/* width */
+#chatContent::-webkit-scrollbar {
+  width: 10px;
+
+}
+
+/* Track */
+#chatContent::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+#chatContent::-webkit-scrollbar-thumb {
+  background: rgb(225, 118, 42); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+#chatContent::-webkit-scrollbar-thumb:hover {
+  background: rgb(117, 55, 10); 
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }</style>
+</body>
+</html>

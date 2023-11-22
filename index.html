@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Consultar Alíquotas de ICMS</title>
+   <script src="./script.js"></script>
+    <style>
+        /* Estilos para o corpo da página */
+        body {
+            background-color: #b8b8b8; /* Cinza claro */
+            font-family: Arial, sans-serif;
+            color: #333; /* Cinza escuro */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+        }
+p {
+    font-weight: 600;
+}
+        /* Estilos para o cabeçalho (h1) */
+        h1 {
+            background-color: #0074D9; /* Azul */
+            color: #ffffff; /* Branco */
+            padding: 20px;
+            text-align: center;
+            margin: 0;
+            width: 100%;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilos para o rótulo e input */
+        label {
+            display: block;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        input[type="text"] {
+    width: calc(100% - 20px); /* Reduz a largura para considerar a margem em ambos os lados */
+    padding: 25px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px; /* Adiciona uma margem de 5px em todos os lados */
+    font-size: 16px;
+}
+
+
+
+
+        /* Estilos para o botão e o spinner */
+        button {
+            background-color: #FFA500; /* Laranja */
+            color: #ffffff; /* Branco */
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        button:hover {
+            background-color: #FF8C00; /* Laranja mais escuro ao passar o mouse */
+        }
+
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid #FFA500; /* Laranja */
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            display: none; /* Inicialmente oculto */
+        }
+
+        /* Estilos para a div de resposta */
+        #resposta {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #0074D9; /* Azul */
+            color: #ffffff; /* Branco */
+            border-radius: 5px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Consultar Alíquotas de ICMS</h1>
+    <label for="pergunta">Faça sua pergunta:</label>
+ 
+    <input type="text" id="pergunta" placeholder="Por exemplo: Qual é a alíquota de ICMS de SP para RJ?">
+    <p style="font-size: 20px;font-weight: 600;color: #FFA500;">Tente:</p>
+    <p >Qual a mva da cest 01.007.00 do estado do RS?</p>
+    <p>Qual a alíquota do icms de SP?</p>
+    <p>Qual a alíquota do icms de SP para RS?</p>
+    <p>Qual a alíquota do icms da ncm 1006.10.92 do RS?</p>
+    <button id="consultar">Consultar</button>
+    <div class="spinner" id="spinner"></div>
+    <div id="resposta"></div>
+    <div id="erro" style="color: red; margin-top: 20px;"></div> 
+
+
+    <script>
+        document.getElementById("consultar").addEventListener("click", function() {
+            const pergunta = document.getElementById("pergunta").value.trim();
+            const spinner = document.getElementById("spinner");
+            const divErro = document.getElementById("erro");
+            
+            // Limpar mensagens de resposta e erro
+            document.getElementById("resposta").innerText = "";
+            divErro.innerText = "";
+            
+            // Verificar se a pergunta está vazia
+            if (!pergunta) {
+                divErro.innerText = "Por favor, digite uma pergunta.";
+                return;
+            }
+
+            spinner.style.display = "inline-block";
+
+            fetch("https://www.lefisc.com.br/api/chatbot/responder", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ pergunta })
+            })
+            .then(response => {
+        if (!response.ok) {
+            return response.json().then(errorData => {
+                throw new Error(errorData.erro || "Houve um erro ao processar sua solicitação.");
+            });
+        }
+        return response.json();
+    })
+    .then(data => {
+        document.getElementById("resposta").innerText = data.resposta;
+        spinner.style.display = "none";
+    })
+    .catch(error => {
+        console.error("Erro:", error);
+        divErro.innerText = error.message || "Houve um erro ao processar sua solicitação. Tente novamente mais tarde.";
+        spinner.style.display = "none";
+    });
+});
+    </script>
+</body>
+</html>

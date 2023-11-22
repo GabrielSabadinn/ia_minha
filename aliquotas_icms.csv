@@ -1,0 +1,703 @@
+"origem","estado_origem","destino","estado_destino","aliquota"
+AC,Acre,AL,Alagoas,12.0
+AC,Acre,AM,Amazonas,12.0
+AC,Acre,AP,Amapá,12.0
+AC,Acre,BA,Bahia,12.0
+AC,Acre,CE,Ceará,12.0
+AC,Acre,DF,Distrito Federal,12.0
+AC,Acre,ES,Espírito Santo,12.0
+AC,Acre,GO,Goiás,12.0
+AC,Acre,MA,Maranhão,12.0
+AC,Acre,MT,Mato Grosso,12.0
+AC,Acre,MS,Mato Grosso do Sul,12.0
+AC,Acre,MG,Minas Gerais,12.0
+AC,Acre,PA,Pará,12.0
+AC,Acre,PB,Paraíba,12.0
+AC,Acre,PR,Paraná,12.0
+AC,Acre,PE,Pernambuco,12.0
+AC,Acre,PI,Piauí,12.0
+AC,Acre,RN,Rio Grande do Norte,12.0
+AC,Acre,RS,Rio Grande do Sul,12.0
+AC,Acre,RJ,Rio de Janeiro,12.0
+AC,Acre,RO,Rondônia,12.0
+AC,Acre,RR,Roraima,12.0
+AC,Acre,SC,Santa Catarina,12.0
+AC,Acre,SP,São Paulo,12.0
+AC,Acre,SE,Sergipe,12.0
+AC,Acre,TO,Tocantins,12.0
+AL,Alagoas,AC,Acre,12.0
+AL,Alagoas,AM,Amazonas,12.0
+AL,Alagoas,AP,Amapá,12.0
+AL,Alagoas,BA,Bahia,12.0
+AL,Alagoas,CE,Ceará,12.0
+AL,Alagoas,DF,Distrito Federal,12.0
+AL,Alagoas,ES,Espírito Santo,12.0
+AL,Alagoas,GO,Goiás,12.0
+AL,Alagoas,MA,Maranhão,12.0
+AL,Alagoas,MT,Mato Grosso,12.0
+AL,Alagoas,MS,Mato Grosso do Sul,12.0
+AL,Alagoas,MG,Minas Gerais,12.0
+AL,Alagoas,PA,Pará,12.0
+AL,Alagoas,PB,Paraíba,12.0
+AL,Alagoas,PR,Paraná,12.0
+AL,Alagoas,PE,Pernambuco,12.0
+AL,Alagoas,PI,Piauí,12.0
+AL,Alagoas,RN,Rio Grande do Norte,12.0
+AL,Alagoas,RS,Rio Grande do Sul,12.0
+AL,Alagoas,RJ,Rio de Janeiro,12.0
+AL,Alagoas,RO,Rondônia,12.0
+AL,Alagoas,RR,Roraima,12.0
+AL,Alagoas,SC,Santa Catarina,12.0
+AL,Alagoas,SP,São Paulo,12.0
+AL,Alagoas,SE,Sergipe,12.0
+AL,Alagoas,TO,Tocantins,12.0
+AM,Amazonas,AC,Acre,12.0
+AM,Amazonas,AL,Alagoas,12.0
+AM,Amazonas,AP,Amapá,12.0
+AM,Amazonas,BA,Bahia,12.0
+AM,Amazonas,CE,Ceará,12.0
+AM,Amazonas,DF,Distrito Federal,12.0
+AM,Amazonas,ES,Espírito Santo,12.0
+AM,Amazonas,GO,Goiás,12.0
+AM,Amazonas,MA,Maranhão,12.0
+AM,Amazonas,MT,Mato Grosso,12.0
+AM,Amazonas,MS,Mato Grosso do Sul,12.0
+AM,Amazonas,MG,Minas Gerais,12.0
+AM,Amazonas,PA,Pará,12.0
+AM,Amazonas,PB,Paraíba,12.0
+AM,Amazonas,PR,Paraná,12.0
+AM,Amazonas,PE,Pernambuco,12.0
+AM,Amazonas,PI,Piauí,12.0
+AM,Amazonas,RN,Rio Grande do Norte,12.0
+AM,Amazonas,RS,Rio Grande do Sul,12.0
+AM,Amazonas,RJ,Rio de Janeiro,12.0
+AM,Amazonas,RO,Rondônia,12.0
+AM,Amazonas,RR,Roraima,12.0
+AM,Amazonas,SC,Santa Catarina,12.0
+AM,Amazonas,SP,São Paulo,12.0
+AM,Amazonas,SE,Sergipe,12.0
+AM,Amazonas,TO,Tocantins,12.0
+AP,Amapá,AC,Acre,12.0
+AP,Amapá,AL,Alagoas,12.0
+AP,Amapá,AM,Amazonas,12.0
+AP,Amapá,BA,Bahia,12.0
+AP,Amapá,CE,Ceará,12.0
+AP,Amapá,DF,Distrito Federal,12.0
+AP,Amapá,ES,Espírito Santo,12.0
+AP,Amapá,GO,Goiás,12.0
+AP,Amapá,MA,Maranhão,12.0
+AP,Amapá,MT,Mato Grosso,12.0
+AP,Amapá,MS,Mato Grosso do Sul,12.0
+AP,Amapá,MG,Minas Gerais,12.0
+AP,Amapá,PA,Pará,12.0
+AP,Amapá,PB,Paraíba,12.0
+AP,Amapá,PR,Paraná,12.0
+AP,Amapá,PE,Pernambuco,12.0
+AP,Amapá,PI,Piauí,12.0
+AP,Amapá,RN,Rio Grande do Norte,12.0
+AP,Amapá,RS,Rio Grande do Sul,12.0
+AP,Amapá,RJ,Rio de Janeiro,12.0
+AP,Amapá,RO,Rondônia,12.0
+AP,Amapá,RR,Roraima,12.0
+AP,Amapá,SC,Santa Catarina,12.0
+AP,Amapá,SP,São Paulo,12.0
+AP,Amapá,SE,Sergipe,12.0
+AP,Amapá,TO,Tocantins,12.0
+BA,Bahia,AC,Acre,12.0
+BA,Bahia,AL,Alagoas,12.0
+BA,Bahia,AM,Amazonas,12.0
+BA,Bahia,AP,Amapá,12.0
+BA,Bahia,CE,Ceará,12.0
+BA,Bahia,DF,Distrito Federal,12.0
+BA,Bahia,ES,Espírito Santo,12.0
+BA,Bahia,GO,Goiás,12.0
+BA,Bahia,MA,Maranhão,12.0
+BA,Bahia,MT,Mato Grosso,12.0
+BA,Bahia,MS,Mato Grosso do Sul,12.0
+BA,Bahia,MG,Minas Gerais,12.0
+BA,Bahia,PA,Pará,12.0
+BA,Bahia,PB,Paraíba,12.0
+BA,Bahia,PR,Paraná,12.0
+BA,Bahia,PE,Pernambuco,12.0
+BA,Bahia,PI,Piauí,12.0
+BA,Bahia,RN,Rio Grande do Norte,12.0
+BA,Bahia,RS,Rio Grande do Sul,12.0
+BA,Bahia,RJ,Rio de Janeiro,12.0
+BA,Bahia,RO,Rondônia,12.0
+BA,Bahia,RR,Roraima,12.0
+BA,Bahia,SC,Santa Catarina,12.0
+BA,Bahia,SP,São Paulo,12.0
+BA,Bahia,SE,Sergipe,12.0
+BA,Bahia,TO,Tocantins,12.0
+CE,Ceará,AC,Acre,12.0
+CE,Ceará,AL,Alagoas,12.0
+CE,Ceará,AM,Amazonas,12.0
+CE,Ceará,AP,Amapá,12.0
+CE,Ceará,BA,Bahia,12.0
+CE,Ceará,DF,Distrito Federal,12.0
+CE,Ceará,ES,Espírito Santo,12.0
+CE,Ceará,GO,Goiás,12.0
+CE,Ceará,MA,Maranhão,12.0
+CE,Ceará,MT,Mato Grosso,12.0
+CE,Ceará,MS,Mato Grosso do Sul,12.0
+CE,Ceará,MG,Minas Gerais,12.0
+CE,Ceará,PA,Pará,12.0
+CE,Ceará,PB,Paraíba,12.0
+CE,Ceará,PR,Paraná,12.0
+CE,Ceará,PE,Pernambuco,12.0
+CE,Ceará,PI,Piauí,12.0
+CE,Ceará,RN,Rio Grande do Norte,12.0
+CE,Ceará,RS,Rio Grande do Sul,12.0
+CE,Ceará,RJ,Rio de Janeiro,12.0
+CE,Ceará,RO,Rondônia,12.0
+CE,Ceará,RR,Roraima,12.0
+CE,Ceará,SC,Santa Catarina,12.0
+CE,Ceará,SP,São Paulo,12.0
+CE,Ceará,SE,Sergipe,12.0
+CE,Ceará,TO,Tocantins,12.0
+DF,Distrito Federal,AC,Acre,12.0
+DF,Distrito Federal,AL,Alagoas,12.0
+DF,Distrito Federal,AM,Amazonas,12.0
+DF,Distrito Federal,AP,Amapá,12.0
+DF,Distrito Federal,BA,Bahia,12.0
+DF,Distrito Federal,CE,Ceará,12.0
+DF,Distrito Federal,ES,Espírito Santo,12.0
+DF,Distrito Federal,GO,Goiás,12.0
+DF,Distrito Federal,MA,Maranhão,12.0
+DF,Distrito Federal,MT,Mato Grosso,12.0
+DF,Distrito Federal,MS,Mato Grosso do Sul,12.0
+DF,Distrito Federal,MG,Minas Gerais,12.0
+DF,Distrito Federal,PA,Pará,12.0
+DF,Distrito Federal,PB,Paraíba,12.0
+DF,Distrito Federal,PR,Paraná,12.0
+DF,Distrito Federal,PE,Pernambuco,12.0
+DF,Distrito Federal,PI,Piauí,12.0
+DF,Distrito Federal,RN,Rio Grande do Norte,12.0
+DF,Distrito Federal,RS,Rio Grande do Sul,12.0
+DF,Distrito Federal,RJ,Rio de Janeiro,12.0
+DF,Distrito Federal,RO,Rondônia,12.0
+DF,Distrito Federal,RR,Roraima,12.0
+DF,Distrito Federal,SC,Santa Catarina,12.0
+DF,Distrito Federal,SP,São Paulo,12.0
+DF,Distrito Federal,SE,Sergipe,12.0
+DF,Distrito Federal,TO,Tocantins,12.0
+ES,Espírito Santo,AC,Acre,12.0
+ES,Espírito Santo,AL,Alagoas,12.0
+ES,Espírito Santo,AM,Amazonas,12.0
+ES,Espírito Santo,AP,Amapá,12.0
+ES,Espírito Santo,BA,Bahia,12.0
+ES,Espírito Santo,CE,Ceará,12.0
+ES,Espírito Santo,DF,Distrito Federal,12.0
+ES,Espírito Santo,GO,Goiás,12.0
+ES,Espírito Santo,MA,Maranhão,12.0
+ES,Espírito Santo,MT,Mato Grosso,12.0
+ES,Espírito Santo,MS,Mato Grosso do Sul,12.0
+ES,Espírito Santo,MG,Minas Gerais,12.0
+ES,Espírito Santo,PA,Pará,12.0
+ES,Espírito Santo,PB,Paraíba,12.0
+ES,Espírito Santo,PR,Paraná,12.0
+ES,Espírito Santo,PE,Pernambuco,12.0
+ES,Espírito Santo,PI,Piauí,12.0
+ES,Espírito Santo,RN,Rio Grande do Norte,12.0
+ES,Espírito Santo,RS,Rio Grande do Sul,12.0
+ES,Espírito Santo,RJ,Rio de Janeiro,12.0
+ES,Espírito Santo,RO,Rondônia,12.0
+ES,Espírito Santo,RR,Roraima,12.0
+ES,Espírito Santo,SC,Santa Catarina,12.0
+ES,Espírito Santo,SP,São Paulo,12.0
+ES,Espírito Santo,SE,Sergipe,12.0
+ES,Espírito Santo,TO,Tocantins,12.0
+GO,Goiás,AC,Acre,12.0
+GO,Goiás,AL,Alagoas,12.0
+GO,Goiás,AM,Amazonas,12.0
+GO,Goiás,AP,Amapá,12.0
+GO,Goiás,BA,Bahia,12.0
+GO,Goiás,CE,Ceará,12.0
+GO,Goiás,DF,Distrito Federal,12.0
+GO,Goiás,ES,Espírito Santo,12.0
+GO,Goiás,MA,Maranhão,12.0
+GO,Goiás,MT,Mato Grosso,12.0
+GO,Goiás,MS,Mato Grosso do Sul,12.0
+GO,Goiás,MG,Minas Gerais,12.0
+GO,Goiás,PA,Pará,12.0
+GO,Goiás,PB,Paraíba,12.0
+GO,Goiás,PR,Paraná,12.0
+GO,Goiás,PE,Pernambuco,12.0
+GO,Goiás,PI,Piauí,12.0
+GO,Goiás,RN,Rio Grande do Norte,12.0
+GO,Goiás,RS,Rio Grande do Sul,12.0
+GO,Goiás,RJ,Rio de Janeiro,12.0
+GO,Goiás,RO,Rondônia,12.0
+GO,Goiás,RR,Roraima,12.0
+GO,Goiás,SC,Santa Catarina,12.0
+GO,Goiás,SP,São Paulo,12.0
+GO,Goiás,SE,Sergipe,12.0
+GO,Goiás,TO,Tocantins,12.0
+MA,Maranhão,AC,Acre,12.0
+MA,Maranhão,AL,Alagoas,12.0
+MA,Maranhão,AM,Amazonas,12.0
+MA,Maranhão,AP,Amapá,12.0
+MA,Maranhão,BA,Bahia,12.0
+MA,Maranhão,CE,Ceará,12.0
+MA,Maranhão,DF,Distrito Federal,12.0
+MA,Maranhão,ES,Espírito Santo,12.0
+MA,Maranhão,GO,Goiás,12.0
+MA,Maranhão,MT,Mato Grosso,12.0
+MA,Maranhão,MS,Mato Grosso do Sul,12.0
+MA,Maranhão,MG,Minas Gerais,12.0
+MA,Maranhão,PA,Pará,12.0
+MA,Maranhão,PB,Paraíba,12.0
+MA,Maranhão,PR,Paraná,12.0
+MA,Maranhão,PE,Pernambuco,12.0
+MA,Maranhão,PI,Piauí,12.0
+MA,Maranhão,RN,Rio Grande do Norte,12.0
+MA,Maranhão,RS,Rio Grande do Sul,12.0
+MA,Maranhão,RJ,Rio de Janeiro,12.0
+MA,Maranhão,RO,Rondônia,12.0
+MA,Maranhão,RR,Roraima,12.0
+MA,Maranhão,SC,Santa Catarina,12.0
+MA,Maranhão,SP,São Paulo,12.0
+MA,Maranhão,SE,Sergipe,12.0
+MA,Maranhão,TO,Tocantins,12.0
+MT,Mato Grosso,AC,Acre,12.0
+MT,Mato Grosso,AL,Alagoas,12.0
+MT,Mato Grosso,AM,Amazonas,12.0
+MT,Mato Grosso,AP,Amapá,12.0
+MT,Mato Grosso,BA,Bahia,12.0
+MT,Mato Grosso,CE,Ceará,12.0
+MT,Mato Grosso,DF,Distrito Federal,12.0
+MT,Mato Grosso,ES,Espírito Santo,12.0
+MT,Mato Grosso,GO,Goiás,12.0
+MT,Mato Grosso,MA,Maranhão,12.0
+MT,Mato Grosso,MS,Mato Grosso do Sul,12.0
+MT,Mato Grosso,MG,Minas Gerais,12.0
+MT,Mato Grosso,PA,Pará,12.0
+MT,Mato Grosso,PB,Paraíba,12.0
+MT,Mato Grosso,PR,Paraná,12.0
+MT,Mato Grosso,PE,Pernambuco,12.0
+MT,Mato Grosso,PI,Piauí,12.0
+MT,Mato Grosso,RN,Rio Grande do Norte,12.0
+MT,Mato Grosso,RS,Rio Grande do Sul,12.0
+MT,Mato Grosso,RJ,Rio de Janeiro,12.0
+MT,Mato Grosso,RO,Rondônia,12.0
+MT,Mato Grosso,RR,Roraima,12.0
+MT,Mato Grosso,SC,Santa Catarina,12.0
+MT,Mato Grosso,SP,São Paulo,12.0
+MT,Mato Grosso,SE,Sergipe,12.0
+MT,Mato Grosso,TO,Tocantins,12.0
+MS,Mato Grosso do Sul,AC,Acre,12.0
+MS,Mato Grosso do Sul,AL,Alagoas,12.0
+MS,Mato Grosso do Sul,AM,Amazonas,12.0
+MS,Mato Grosso do Sul,AP,Amapá,12.0
+MS,Mato Grosso do Sul,BA,Bahia,12.0
+MS,Mato Grosso do Sul,CE,Ceará,12.0
+MS,Mato Grosso do Sul,DF,Distrito Federal,12.0
+MS,Mato Grosso do Sul,ES,Espírito Santo,12.0
+MS,Mato Grosso do Sul,GO,Goiás,12.0
+MS,Mato Grosso do Sul,MA,Maranhão,12.0
+MS,Mato Grosso do Sul,MT,Mato Grosso,12.0
+MS,Mato Grosso do Sul,MG,Minas Gerais,12.0
+MS,Mato Grosso do Sul,PA,Pará,12.0
+MS,Mato Grosso do Sul,PB,Paraíba,12.0
+MS,Mato Grosso do Sul,PR,Paraná,12.0
+MS,Mato Grosso do Sul,PE,Pernambuco,12.0
+MS,Mato Grosso do Sul,PI,Piauí,12.0
+MS,Mato Grosso do Sul,RN,Rio Grande do Norte,12.0
+MS,Mato Grosso do Sul,RS,Rio Grande do Sul,12.0
+MS,Mato Grosso do Sul,RJ,Rio de Janeiro,12.0
+MS,Mato Grosso do Sul,RO,Rondônia,12.0
+MS,Mato Grosso do Sul,RR,Roraima,12.0
+MS,Mato Grosso do Sul,SC,Santa Catarina,12.0
+MS,Mato Grosso do Sul,SP,São Paulo,12.0
+MS,Mato Grosso do Sul,SE,Sergipe,12.0
+MS,Mato Grosso do Sul,TO,Tocantins,12.0
+MG,Minas Gerais,AC,Acre,7.0
+MG,Minas Gerais,AL,Alagoas,7.0
+MG,Minas Gerais,AM,Amazonas,7.0
+MG,Minas Gerais,AP,Amapá,7.0
+MG,Minas Gerais,BA,Bahia,7.0
+MG,Minas Gerais,CE,Ceará,7.0
+MG,Minas Gerais,DF,Distrito Federal,7.0
+MG,Minas Gerais,ES,Espírito Santo,7.0
+MG,Minas Gerais,GO,Goiás,7.0
+MG,Minas Gerais,MA,Maranhão,7.0
+MG,Minas Gerais,MT,Mato Grosso,7.0
+MG,Minas Gerais,MS,Mato Grosso do Sul,7.0
+MG,Minas Gerais,PA,Pará,7.0
+MG,Minas Gerais,PB,Paraíba,7.0
+MG,Minas Gerais,PR,Paraná,12.0
+MG,Minas Gerais,PE,Pernambuco,7.0
+MG,Minas Gerais,PI,Piauí,7.0
+MG,Minas Gerais,RN,Rio Grande do Norte,7.0
+MG,Minas Gerais,RS,Rio Grande do Sul,12.0
+MG,Minas Gerais,RJ,Rio de Janeiro,12.0
+MG,Minas Gerais,RO,Rondônia,7.0
+MG,Minas Gerais,RR,Roraima,7.0
+MG,Minas Gerais,SC,Santa Catarina,12.0
+MG,Minas Gerais,SP,São Paulo,12.0
+MG,Minas Gerais,SE,Sergipe,7.0
+MG,Minas Gerais,TO,Tocantins,7.0
+PA,Pará,AC,Acre,12.0
+PA,Pará,AL,Alagoas,12.0
+PA,Pará,AM,Amazonas,12.0
+PA,Pará,AP,Amapá,12.0
+PA,Pará,BA,Bahia,12.0
+PA,Pará,CE,Ceará,12.0
+PA,Pará,DF,Distrito Federal,12.0
+PA,Pará,ES,Espírito Santo,12.0
+PA,Pará,GO,Goiás,12.0
+PA,Pará,MA,Maranhão,12.0
+PA,Pará,MT,Mato Grosso,12.0
+PA,Pará,MS,Mato Grosso do Sul,12.0
+PA,Pará,MG,Minas Gerais,12.0
+PA,Pará,PB,Paraíba,12.0
+PA,Pará,PR,Paraná,12.0
+PA,Pará,PE,Pernambuco,12.0
+PA,Pará,PI,Piauí,12.0
+PA,Pará,RN,Rio Grande do Norte,12.0
+PA,Pará,RS,Rio Grande do Sul,12.0
+PA,Pará,RJ,Rio de Janeiro,12.0
+PA,Pará,RO,Rondônia,12.0
+PA,Pará,RR,Roraima,12.0
+PA,Pará,SC,Santa Catarina,12.0
+PA,Pará,SP,São Paulo,12.0
+PA,Pará,SE,Sergipe,12.0
+PA,Pará,TO,Tocantins,12.0
+PB,Paraíba,AC,Acre,12.0
+PB,Paraíba,AL,Alagoas,12.0
+PB,Paraíba,AM,Amazonas,12.0
+PB,Paraíba,AP,Amapá,12.0
+PB,Paraíba,BA,Bahia,12.0
+PB,Paraíba,CE,Ceará,12.0
+PB,Paraíba,DF,Distrito Federal,12.0
+PB,Paraíba,ES,Espírito Santo,12.0
+PB,Paraíba,GO,Goiás,12.0
+PB,Paraíba,MA,Maranhão,12.0
+PB,Paraíba,MT,Mato Grosso,12.0
+PB,Paraíba,MS,Mato Grosso do Sul,12.0
+PB,Paraíba,MG,Minas Gerais,12.0
+PB,Paraíba,PA,Pará,12.0
+PB,Paraíba,PR,Paraná,12.0
+PB,Paraíba,PE,Pernambuco,12.0
+PB,Paraíba,PI,Piauí,12.0
+PB,Paraíba,RN,Rio Grande do Norte,12.0
+PB,Paraíba,RS,Rio Grande do Sul,12.0
+PB,Paraíba,RJ,Rio de Janeiro,12.0
+PB,Paraíba,RO,Rondônia,12.0
+PB,Paraíba,RR,Roraima,12.0
+PB,Paraíba,SC,Santa Catarina,12.0
+PB,Paraíba,SP,São Paulo,12.0
+PB,Paraíba,SE,Sergipe,12.0
+PB,Paraíba,TO,Tocantins,12.0
+PR,Paraná,AC,Acre,7.0
+PR,Paraná,AL,Alagoas,7.0
+PR,Paraná,AM,Amazonas,7.0
+PR,Paraná,AP,Amapá,7.0
+PR,Paraná,BA,Bahia,7.0
+PR,Paraná,CE,Ceará,7.0
+PR,Paraná,DF,Distrito Federal,7.0
+PR,Paraná,ES,Espírito Santo,7.0
+PR,Paraná,GO,Goiás,7.0
+PR,Paraná,MA,Maranhão,7.0
+PR,Paraná,MT,Mato Grosso,7.0
+PR,Paraná,MS,Mato Grosso do Sul,7.0
+PR,Paraná,MG,Minas Gerais,12.0
+PR,Paraná,PA,Pará,7.0
+PR,Paraná,PB,Paraíba,7.0
+PR,Paraná,PE,Pernambuco,7.0
+PR,Paraná,PI,Piauí,7.0
+PR,Paraná,RN,Rio Grande do Norte,7.0
+PR,Paraná,RS,Rio Grande do Sul,12.0
+PR,Paraná,RJ,Rio de Janeiro,12.0
+PR,Paraná,RO,Rondônia,7.0
+PR,Paraná,RR,Roraima,7.0
+PR,Paraná,SC,Santa Catarina,12.0
+PR,Paraná,SP,São Paulo,12.0
+PR,Paraná,SE,Sergipe,7.0
+PR,Paraná,TO,Tocantins,7.0
+PE,Pernambuco,AC,Acre,12.0
+PE,Pernambuco,AL,Alagoas,12.0
+PE,Pernambuco,AM,Amazonas,12.0
+PE,Pernambuco,AP,Amapá,12.0
+PE,Pernambuco,BA,Bahia,12.0
+PE,Pernambuco,CE,Ceará,12.0
+PE,Pernambuco,DF,Distrito Federal,12.0
+PE,Pernambuco,ES,Espírito Santo,12.0
+PE,Pernambuco,GO,Goiás,12.0
+PE,Pernambuco,MA,Maranhão,12.0
+PE,Pernambuco,MT,Mato Grosso,12.0
+PE,Pernambuco,MS,Mato Grosso do Sul,12.0
+PE,Pernambuco,MG,Minas Gerais,12.0
+PE,Pernambuco,PA,Pará,12.0
+PE,Pernambuco,PB,Paraíba,12.0
+PE,Pernambuco,PR,Paraná,12.0
+PE,Pernambuco,PI,Piauí,12.0
+PE,Pernambuco,RN,Rio Grande do Norte,12.0
+PE,Pernambuco,RS,Rio Grande do Sul,12.0
+PE,Pernambuco,RJ,Rio de Janeiro,12.0
+PE,Pernambuco,RO,Rondônia,12.0
+PE,Pernambuco,RR,Roraima,12.0
+PE,Pernambuco,SC,Santa Catarina,12.0
+PE,Pernambuco,SP,São Paulo,12.0
+PE,Pernambuco,SE,Sergipe,12.0
+PE,Pernambuco,TO,Tocantins,12.0
+PI,Piauí,AC,Acre,12.0
+PI,Piauí,AL,Alagoas,12.0
+PI,Piauí,AM,Amazonas,12.0
+PI,Piauí,AP,Amapá,12.0
+PI,Piauí,BA,Bahia,12.0
+PI,Piauí,CE,Ceará,12.0
+PI,Piauí,DF,Distrito Federal,12.0
+PI,Piauí,ES,Espírito Santo,12.0
+PI,Piauí,GO,Goiás,12.0
+PI,Piauí,MA,Maranhão,12.0
+PI,Piauí,MT,Mato Grosso,12.0
+PI,Piauí,MS,Mato Grosso do Sul,12.0
+PI,Piauí,MG,Minas Gerais,12.0
+PI,Piauí,PA,Pará,12.0
+PI,Piauí,PB,Paraíba,12.0
+PI,Piauí,PR,Paraná,12.0
+PI,Piauí,PE,Pernambuco,12.0
+PI,Piauí,RN,Rio Grande do Norte,12.0
+PI,Piauí,RS,Rio Grande do Sul,12.0
+PI,Piauí,RJ,Rio de Janeiro,12.0
+PI,Piauí,RO,Rondônia,12.0
+PI,Piauí,RR,Roraima,12.0
+PI,Piauí,SC,Santa Catarina,12.0
+PI,Piauí,SP,São Paulo,12.0
+PI,Piauí,SE,Sergipe,12.0
+PI,Piauí,TO,Tocantins,12.0
+RN,Rio Grande do Norte,AC,Acre,12.0
+RN,Rio Grande do Norte,AL,Alagoas,12.0
+RN,Rio Grande do Norte,AM,Amazonas,12.0
+RN,Rio Grande do Norte,AP,Amapá,12.0
+RN,Rio Grande do Norte,BA,Bahia,12.0
+RN,Rio Grande do Norte,CE,Ceará,12.0
+RN,Rio Grande do Norte,DF,Distrito Federal,12.0
+RN,Rio Grande do Norte,ES,Espírito Santo,12.0
+RN,Rio Grande do Norte,GO,Goiás,12.0
+RN,Rio Grande do Norte,MA,Maranhão,12.0
+RN,Rio Grande do Norte,MT,Mato Grosso,12.0
+RN,Rio Grande do Norte,MS,Mato Grosso do Sul,12.0
+RN,Rio Grande do Norte,MG,Minas Gerais,12.0
+RN,Rio Grande do Norte,PA,Pará,12.0
+RN,Rio Grande do Norte,PB,Paraíba,12.0
+RN,Rio Grande do Norte,PR,Paraná,12.0
+RN,Rio Grande do Norte,PE,Pernambuco,12.0
+RN,Rio Grande do Norte,PI,Piauí,12.0
+RN,Rio Grande do Norte,RS,Rio Grande do Sul,12.0
+RN,Rio Grande do Norte,RJ,Rio de Janeiro,12.0
+RN,Rio Grande do Norte,RO,Rondônia,12.0
+RN,Rio Grande do Norte,RR,Roraima,12.0
+RN,Rio Grande do Norte,SC,Santa Catarina,12.0
+RN,Rio Grande do Norte,SP,São Paulo,12.0
+RN,Rio Grande do Norte,SE,Sergipe,12.0
+RN,Rio Grande do Norte,TO,Tocantins,12.0
+RS,Rio Grande do Sul,AC,Acre,7.0
+RS,Rio Grande do Sul,AL,Alagoas,7.0
+RS,Rio Grande do Sul,AM,Amazonas,7.0
+RS,Rio Grande do Sul,AP,Amapá,7.0
+RS,Rio Grande do Sul,BA,Bahia,7.0
+RS,Rio Grande do Sul,CE,Ceará,7.0
+RS,Rio Grande do Sul,DF,Distrito Federal,7.0
+RS,Rio Grande do Sul,ES,Espírito Santo,7.0
+RS,Rio Grande do Sul,GO,Goiás,7.0
+RS,Rio Grande do Sul,MA,Maranhão,7.0
+RS,Rio Grande do Sul,MT,Mato Grosso,7.0
+RS,Rio Grande do Sul,MS,Mato Grosso do Sul,7.0
+RS,Rio Grande do Sul,MG,Minas Gerais,12.0
+RS,Rio Grande do Sul,PA,Pará,7.0
+RS,Rio Grande do Sul,PB,Paraíba,7.0
+RS,Rio Grande do Sul,PR,Paraná,12.0
+RS,Rio Grande do Sul,PE,Pernambuco,7.0
+RS,Rio Grande do Sul,PI,Piauí,7.0
+RS,Rio Grande do Sul,RN,Rio Grande do Norte,7.0
+RS,Rio Grande do Sul,RJ,Rio de Janeiro,12.0
+RS,Rio Grande do Sul,RO,Rondônia,7.0
+RS,Rio Grande do Sul,RR,Roraima,7.0
+RS,Rio Grande do Sul,SC,Santa Catarina,12.0
+RS,Rio Grande do Sul,SP,São Paulo,12.0
+RS,Rio Grande do Sul,SE,Sergipe,7.0
+RS,Rio Grande do Sul,TO,Tocantins,7.0
+RJ,Rio de Janeiro,AC,Acre,7.0
+RJ,Rio de Janeiro,AL,Alagoas,7.0
+RJ,Rio de Janeiro,AM,Amazonas,7.0
+RJ,Rio de Janeiro,AP,Amapá,7.0
+RJ,Rio de Janeiro,BA,Bahia,7.0
+RJ,Rio de Janeiro,CE,Ceará,7.0
+RJ,Rio de Janeiro,DF,Distrito Federal,7.0
+RJ,Rio de Janeiro,ES,Espírito Santo,7.0
+RJ,Rio de Janeiro,GO,Goiás,7.0
+RJ,Rio de Janeiro,MA,Maranhão,7.0
+RJ,Rio de Janeiro,MT,Mato Grosso,7.0
+RJ,Rio de Janeiro,MS,Mato Grosso do Sul,7.0
+RJ,Rio de Janeiro,MG,Minas Gerais,12.0
+RJ,Rio de Janeiro,PA,Pará,7.0
+RJ,Rio de Janeiro,PB,Paraíba,7.0
+RJ,Rio de Janeiro,PR,Paraná,12.0
+RJ,Rio de Janeiro,PE,Pernambuco,7.0
+RJ,Rio de Janeiro,PI,Piauí,7.0
+RJ,Rio de Janeiro,RN,Rio Grande do Norte,7.0
+RJ,Rio de Janeiro,RS,Rio Grande do Sul,12.0
+RJ,Rio de Janeiro,RO,Rondônia,7.0
+RJ,Rio de Janeiro,RR,Roraima,7.0
+RJ,Rio de Janeiro,SC,Santa Catarina,12.0
+RJ,Rio de Janeiro,SP,São Paulo,12.0
+RJ,Rio de Janeiro,SE,Sergipe,7.0
+RJ,Rio de Janeiro,TO,Tocantins,7.0
+RO,Rondônia,AC,Acre,12.0
+RO,Rondônia,AL,Alagoas,12.0
+RO,Rondônia,AM,Amazonas,12.0
+RO,Rondônia,AP,Amapá,12.0
+RO,Rondônia,BA,Bahia,12.0
+RO,Rondônia,CE,Ceará,12.0
+RO,Rondônia,DF,Distrito Federal,12.0
+RO,Rondônia,ES,Espírito Santo,12.0
+RO,Rondônia,GO,Goiás,12.0
+RO,Rondônia,MA,Maranhão,12.0
+RO,Rondônia,MT,Mato Grosso,12.0
+RO,Rondônia,MS,Mato Grosso do Sul,12.0
+RO,Rondônia,MG,Minas Gerais,12.0
+RO,Rondônia,PA,Pará,12.0
+RO,Rondônia,PB,Paraíba,12.0
+RO,Rondônia,PR,Paraná,12.0
+RO,Rondônia,PE,Pernambuco,12.0
+RO,Rondônia,PI,Piauí,12.0
+RO,Rondônia,RN,Rio Grande do Norte,12.0
+RO,Rondônia,RS,Rio Grande do Sul,12.0
+RO,Rondônia,RJ,Rio de Janeiro,12.0
+RO,Rondônia,RR,Roraima,12.0
+RO,Rondônia,SC,Santa Catarina,12.0
+RO,Rondônia,SP,São Paulo,12.0
+RO,Rondônia,SE,Sergipe,12.0
+RO,Rondônia,TO,Tocantins,12.0
+RR,Roraima,AC,Acre,12.0
+RR,Roraima,AL,Alagoas,12.0
+RR,Roraima,AM,Amazonas,12.0
+RR,Roraima,AP,Amapá,12.0
+RR,Roraima,BA,Bahia,12.0
+RR,Roraima,CE,Ceará,12.0
+RR,Roraima,DF,Distrito Federal,12.0
+RR,Roraima,ES,Espírito Santo,12.0
+RR,Roraima,GO,Goiás,12.0
+RR,Roraima,MA,Maranhão,12.0
+RR,Roraima,MT,Mato Grosso,12.0
+RR,Roraima,MS,Mato Grosso do Sul,12.0
+RR,Roraima,MG,Minas Gerais,12.0
+RR,Roraima,PA,Pará,12.0
+RR,Roraima,PB,Paraíba,12.0
+RR,Roraima,PR,Paraná,12.0
+RR,Roraima,PE,Pernambuco,12.0
+RR,Roraima,PI,Piauí,12.0
+RR,Roraima,RN,Rio Grande do Norte,12.0
+RR,Roraima,RS,Rio Grande do Sul,12.0
+RR,Roraima,RJ,Rio de Janeiro,12.0
+RR,Roraima,RO,Rondônia,12.0
+RR,Roraima,SC,Santa Catarina,12.0
+RR,Roraima,SP,São Paulo,12.0
+RR,Roraima,SE,Sergipe,12.0
+RR,Roraima,TO,Tocantins,12.0
+SC,Santa Catarina,AC,Acre,7.0
+SC,Santa Catarina,AL,Alagoas,7.0
+SC,Santa Catarina,AM,Amazonas,7.0
+SC,Santa Catarina,AP,Amapá,7.0
+SC,Santa Catarina,BA,Bahia,7.0
+SC,Santa Catarina,CE,Ceará,7.0
+SC,Santa Catarina,DF,Distrito Federal,7.0
+SC,Santa Catarina,ES,Espírito Santo,7.0
+SC,Santa Catarina,GO,Goiás,7.0
+SC,Santa Catarina,MA,Maranhão,7.0
+SC,Santa Catarina,MT,Mato Grosso,7.0
+SC,Santa Catarina,MS,Mato Grosso do Sul,7.0
+SC,Santa Catarina,MG,Minas Gerais,12.0
+SC,Santa Catarina,PA,Pará,7.0
+SC,Santa Catarina,PB,Paraíba,7.0
+SC,Santa Catarina,PR,Paraná,12.0
+SC,Santa Catarina,PE,Pernambuco,7.0
+SC,Santa Catarina,PI,Piauí,7.0
+SC,Santa Catarina,RN,Rio Grande do Norte,7.0
+SC,Santa Catarina,RS,Rio Grande do Sul,12.0
+SC,Santa Catarina,RJ,Rio de Janeiro,12.0
+SC,Santa Catarina,RO,Rondônia,7.0
+SC,Santa Catarina,RR,Roraima,7.0
+SC,Santa Catarina,SP,São Paulo,12.0
+SC,Santa Catarina,SE,Sergipe,7.0
+SC,Santa Catarina,TO,Tocantins,7.0
+SP,São Paulo,AC,Acre,7.0
+SP,São Paulo,AL,Alagoas,7.0
+SP,São Paulo,AM,Amazonas,7.0
+SP,São Paulo,AP,Amapá,7.0
+SP,São Paulo,BA,Bahia,7.0
+SP,São Paulo,CE,Ceará,7.0
+SP,São Paulo,DF,Distrito Federal,7.0
+SP,São Paulo,ES,Espírito Santo,7.0
+SP,São Paulo,GO,Goiás,7.0
+SP,São Paulo,MA,Maranhão,7.0
+SP,São Paulo,MT,Mato Grosso,7.0
+SP,São Paulo,MS,Mato Grosso do Sul,7.0
+SP,São Paulo,MG,Minas Gerais,12.0
+SP,São Paulo,PA,Pará,7.0
+SP,São Paulo,PB,Paraíba,7.0
+SP,São Paulo,PR,Paraná,12.0
+SP,São Paulo,PE,Pernambuco,7.0
+SP,São Paulo,PI,Piauí,7.0
+SP,São Paulo,RN,Rio Grande do Norte,7.0
+SP,São Paulo,RS,Rio Grande do Sul,12.0
+SP,São Paulo,RJ,Rio de Janeiro,12.0
+SP,São Paulo,RO,Rondônia,7.0
+SP,São Paulo,RR,Roraima,7.0
+SP,São Paulo,SC,Santa Catarina,12.0
+SP,São Paulo,SE,Sergipe,7.0
+SP,São Paulo,TO,Tocantins,7.0
+SE,Sergipe,AC,Acre,12.0
+SE,Sergipe,AL,Alagoas,12.0
+SE,Sergipe,AM,Amazonas,12.0
+SE,Sergipe,AP,Amapá,12.0
+SE,Sergipe,BA,Bahia,12.0
+SE,Sergipe,CE,Ceará,12.0
+SE,Sergipe,DF,Distrito Federal,12.0
+SE,Sergipe,ES,Espírito Santo,12.0
+SE,Sergipe,GO,Goiás,12.0
+SE,Sergipe,MA,Maranhão,12.0
+SE,Sergipe,MT,Mato Grosso,12.0
+SE,Sergipe,MS,Mato Grosso do Sul,12.0
+SE,Sergipe,MG,Minas Gerais,12.0
+SE,Sergipe,PA,Pará,12.0
+SE,Sergipe,PB,Paraíba,12.0
+SE,Sergipe,PR,Paraná,12.0
+SE,Sergipe,PE,Pernambuco,12.0
+SE,Sergipe,PI,Piauí,12.0
+SE,Sergipe,RN,Rio Grande do Norte,12.0
+SE,Sergipe,RS,Rio Grande do Sul,12.0
+SE,Sergipe,RJ,Rio de Janeiro,12.0
+SE,Sergipe,RO,Rondônia,12.0
+SE,Sergipe,RR,Roraima,12.0
+SE,Sergipe,SC,Santa Catarina,12.0
+SE,Sergipe,SP,São Paulo,12.0
+SE,Sergipe,TO,Tocantins,12.0
+TO,Tocantins,AC,Acre,12.0
+TO,Tocantins,AL,Alagoas,12.0
+TO,Tocantins,AM,Amazonas,12.0
+TO,Tocantins,AP,Amapá,12.0
+TO,Tocantins,BA,Bahia,12.0
+TO,Tocantins,CE,Ceará,12.0
+TO,Tocantins,DF,Distrito Federal,12.0
+TO,Tocantins,ES,Espírito Santo,12.0
+TO,Tocantins,GO,Goiás,12.0
+TO,Tocantins,MA,Maranhão,12.0
+TO,Tocantins,MT,Mato Grosso,12.0
+TO,Tocantins,MS,Mato Grosso do Sul,12.0
+TO,Tocantins,MG,Minas Gerais,12.0
+TO,Tocantins,PA,Pará,12.0
+TO,Tocantins,PB,Paraíba,12.0
+TO,Tocantins,PR,Paraná,12.0
+TO,Tocantins,PE,Pernambuco,12.0
+TO,Tocantins,PI,Piauí,12.0
+TO,Tocantins,RN,Rio Grande do Norte,12.0
+TO,Tocantins,RS,Rio Grande do Sul,12.0
+TO,Tocantins,RJ,Rio de Janeiro,12.0
+TO,Tocantins,RO,Rondônia,12.0
+TO,Tocantins,RR,Roraima,12.0
+TO,Tocantins,SC,Santa Catarina,12.0
+TO,Tocantins,SP,São Paulo,12.0
+TO,Tocantins,SE,Sergipe,12.0
